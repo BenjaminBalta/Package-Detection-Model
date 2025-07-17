@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>001_jpg.rf.de719097e2b635224aad9b8863b8858b.jpg</filename>
+	<path>001_jpg.rf.de719097e2b635224aad9b8863b8858b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Amazon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>259</xmax>
+			<ymin>133</ymin>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
