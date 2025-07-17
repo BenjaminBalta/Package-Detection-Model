@@ -1,0 +1,14 @@
+names:
+- Amazon
+- FedEx
+- Other
+nc: 3
+roboflow:
+  license: Private
+  project: box_detector-8l7t1
+  url: https://app.roboflow.com/final-project-mvwge/box_detector-8l7t1/2
+  version: 2
+  workspace: final-project-mvwge
+test: ../test/images
+train: ../train/images
+val: ../valid/images
