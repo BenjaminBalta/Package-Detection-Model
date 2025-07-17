@@ -1,5 +1,6 @@
 #add package counter to restrict email sending
 #make it work for live video
+#add name of package to email
 from ultralytics import YOLO
 import cv2
 import numpy as np
